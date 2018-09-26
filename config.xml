@@ -7,13 +7,13 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>[Title of your app]</name>
+    <name>GeoSolver 2000 - Distance</name>
 
     <description>
         An app made using Scratch, GitHub, and PhoneGap.
     </description>
 
-    <author href="http://scratch.mit.edu/users/[Your Username]" email="[Your Email]">
+    <author href="http://scratch.mit.edu/users/revel10" email="berserkertitan11@gmail.com">
         [Your Username]
     </author>
 
