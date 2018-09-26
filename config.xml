@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+l1<?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "geosolver2000distance.revel10.edu.mit.scratch"
@@ -14,7 +14,7 @@
     </description>
 
     <author href="http://scratch.mit.edu/users/revel10" email="berserkertitan11@gmail.com">
-        [Your Username]
+        revel10
     </author>
 
 </widget>
